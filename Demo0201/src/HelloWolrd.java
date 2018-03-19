@@ -7,6 +7,8 @@ public class HelloWolrd {
 			System.out.println("Welcome to DevOps "+i);
 		
 		System.out.println("********Thank You**********");
+		
+		System.out.println("------------------------------------------");
 
 	}
 
